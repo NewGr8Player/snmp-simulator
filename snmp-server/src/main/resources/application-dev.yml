@@ -1,0 +1,11 @@
+xavier:
+  snmp:
+    configs:
+      - alias: test
+        device: path
+        ip: 10.11.1.1
+        port: 666
+      - alias: test1
+        device: path1
+        ip: 10.11.1.2
+        port: 667
